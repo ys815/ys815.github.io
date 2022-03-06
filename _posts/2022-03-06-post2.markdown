@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <words of colour> 웹사이트 제작기[1. html(1~8)]
+title: <words of colour> 웹사이트 제작기[1. html]
 date: 2022-03-06 
 category: HTML+CSS+Javascript
 ---
@@ -9,7 +9,7 @@ category: HTML+CSS+Javascript
 > '컬러의 말'이란 책 내용을 기반으로 생활코딩 강의를 따라 컬러별 내용이 담긴 웹사이트를 만들어 보는 중이다.
 
 
-<1.html(1~8)>
+<1.html>
 
 This is code
 ```
