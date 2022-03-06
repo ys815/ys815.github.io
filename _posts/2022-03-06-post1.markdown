@@ -8,12 +8,11 @@ category: HTML+CSS+Javascript
   
 > '컬러의 말'이란 책 내용을 기반으로 생활코딩 강의를 따라 컬러별 내용이 담긴 웹사이트를 만들어 보는 중이다.
   
-index.html
+<index.html>
   
 This is code
-  
 ```
-<script src="https://gist.github.com/ys815/29a48d8cf541f5acecd85e3d1a016f92.js"></script>
+<script src="https://gist.github.com/ys815/29a48d8cf541f5acecd85e3d1a016f92.js"></script>  
 ```
 
 
