@@ -13,7 +13,7 @@ category: HTML
 This is code
   
 ```
-![Uploading colour.jpg…]()
+<script src="https://gist.github.com/ys815/29a48d8cf541f5acecd85e3d1a016f92.js"></script>
 ```
 
 
