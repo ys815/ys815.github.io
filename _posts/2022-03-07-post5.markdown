@@ -1,0 +1,17 @@
+---
+layout: post
+title: <words of colour> 웹사이트 제작기4 (mediaquery.html)
+date: 2022-03-07 
+category: HTML+CSS+Javascript
+---
+# post-sample
+  
+> '컬러의 말'이란 책 내용을 기반으로 생활코딩 강의를 따라 컬러별 내용이 담긴 웹사이트를 만들어 보는 중이다.
+
+<index.html>
+   
+This is code
+  
+```
+  <script src="https://gist.github.com/ys815/06892f13534ad7b2f31425c40cb4f19f.js"></script>
+```
