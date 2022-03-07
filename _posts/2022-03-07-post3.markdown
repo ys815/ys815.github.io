@@ -11,7 +11,8 @@ category: HTML+CSS+Javascript
 <index.html>
 
 This is code
-...
+<pre>
+<code>
 <!doctype html>
 <html>
 <head>
@@ -43,4 +44,5 @@ This is code
 </div>
 </body>
 </html>  
-...
+</code>
+</pre>
