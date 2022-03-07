@@ -1,10 +1,15 @@
 ---
 layout: post
-title: flappy bird 클론 코딩
+title: flappy bird 클론 코딩 파일
 date: 2022-03-07
 category: Unity
 ---
 # post-sample
   
-> flappy bird 클론 코딩 게임 결과물
-[flappy bird clone window.zip](https://github.com/ys815/ys815.github.io/files/8194837/flappy.bird.clone.window.zip)
+> flappy bird 클론 코딩 모바일 빌드(안드로이드)
+
+> 유튜브 강의를 보고 Flappy bird의 클론 코딩을 해보았다. 그냥 따라하면 재미가 없을 것 같아서 직접 게임이미지를 새로 제작해서 따라하였다.
+> 우주를 배경으로 해서 나름 우주선(이라쓰고 걍 로봇새같다...)의 모양을 한 캐릭터가 파이프를 통과하는 게임!
+> (게임 파일 자체를 올리고 싶은데 내가 가진 파일은 Apk...이건 지원을 안한다(당연함..이건 안드로이드 전용임..ㅎ)
+> (아직은 깃허브 블로그 올리는게 제일 어렵... 그래서 커스텀하기 쉽게 테마도 제일 심플한 걸로 골랐는데 이것도 벅참)
+> 곧 게임 플레이 영상이랑 주요 코드만이라도 올려야지!!
