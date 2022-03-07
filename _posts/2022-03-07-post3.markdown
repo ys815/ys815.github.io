@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <words of colour> 웹사이트 제작기[2. html]
-date: 2022-03-06 
+title: <words of colour> 웹사이트 제작기[8. html]
+date: 2022-03-07 
 category: HTML+CSS+Javascript
 ---
 # post-sample
@@ -9,40 +9,11 @@ category: HTML+CSS+Javascript
 > '컬러의 말'이란 책 내용을 기반으로 생활코딩 강의를 따라 컬러별 내용이 담긴 웹사이트를 만들어 보는 중이다.
 
 <index.html>
-
+   
 This is code
-<pre>
-<code>
-<!doctype html>
-<html>
-<head>
-  <title>The secret lives of colour-색각</title>
-  <meta charset="utf-8">
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1><a href="index.html">The Secret Lives of Colour</a></h1>
-  <div id="grid">
-  <ol>
-    <li><a href="1.html">서문</a></li>
-    <li><a href="2.html">색각</a></li>
-    <li><a href="3.html">단순한 연산</a></li>
-    <li><a href="4.html">팔레트의 구성</a></li>
-    <li><a href="5.html">옛 물감 차트</a></li>
-    <li><a href="6.html">색상 애호, 색상 혐오</a></li>
-    <li><a href="7.html">언어의 색</a></li>
-    <li><a href="8.html">색 정보</a></li>
-  </ol>
-  <div id="article">
-    <h2>색각</h2>
-    <p>
-    <u>우리는 색을 어떻게 인식하는 가</u><br><br>
-    빛은 색이니, 그림자는 색의 결핍이다.<br>
-    - J. M. W. 터너. 1818
-   </p>
- </div>
-</div>
-</body>
-</html>  
-</code>
-</pre>
+  
+```
+  <script src="https://gist.github.com/ys815/7b9e5549e835a661ccb1919e0e78788a.js"></script>
+```  
+  
+  
