@@ -15,9 +15,4 @@ This is code
 ```
   <script src="https://gist.github.com/ys815/27614f54b3533921e5b396998eaf77b9.js"></script>
 ```
-```
-  <script src="https://gist.github.com/ys815/0443c94649f07a2ad96f5ed9f1c5f4bb.js"></script>
-```
-```
-  <script src="https://gist.github.com/ys815/d65ed45e6be6c8c2c8024a44a5cb9187.js"></script>
-```
+
