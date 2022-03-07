@@ -22,7 +22,7 @@ category: Unity
 ![156999375-69941ae7-50f8-4137-8105-a14075e2e0fe (1)](https://user-images.githubusercontent.com/101004157/157002095-39fa2b4e-32e6-4f84-8124-35b0ee672984.gif)
 >
 >
-### 이건 빌드해서 안드로이드 폰에서 플레이 영상!**
+### 이건 빌드해서 안드로이드 폰에서 플레이 영상!
 
 ![157009311-e5860a3a-6eb9-4a4b-8f7a-9c4eaeab046a](https://user-images.githubusercontent.com/101004157/157009633-906d5713-130c-43fa-8275-20c4a31242b5.gif)
 
