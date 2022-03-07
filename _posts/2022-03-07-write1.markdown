@@ -16,10 +16,18 @@ category: Unity
 > 
 > (아직은 깃허브 블로그 올리는게 제일 어렵... 그래서 커스텀하기 쉽게 테마도 제일 심플한 걸로 골랐는데 이것도 벅참)
 > 
-> **유니티 게임 스크린 샷!**
-https://user-images.githubusercontent.com/101004157/156999375-69941ae7-50f8-4137-8105-a14075e2e0fe.mp4
+
+**유니티 게임 스크린 샷!**
+![156999375-69941ae7-50f8-4137-8105-a14075e2e0fe (1)](https://user-images.githubusercontent.com/101004157/157002095-39fa2b4e-32e6-4f84-8124-35b0ee672984.gif)
 
 
 **이건 빌드해서 안드로이드 폰에서 플레이 영상!**
-https://user-images.githubusercontent.com/101004157/156999492-30022d9c-2b15-45b7-8fa0-7414b2a1cbed.mp4
+![157009311-e5860a3a-6eb9-4a4b-8f7a-9c4eaeab046a](https://user-images.githubusercontent.com/101004157/157009633-906d5713-130c-43fa-8275-20c4a31242b5.gif)
+
+
+
+
+
+
+
 
