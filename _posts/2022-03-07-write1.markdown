@@ -4,7 +4,7 @@ title: flappy bird 클론 코딩 빌드
 date: 2022-03-07
 category: Unity
 ---
-# post-sample
+# 클론 코딩 빌드
   
 > ## flappy bird 클론 코딩 모바일 빌드(안드로이드)
 
