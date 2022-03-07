@@ -4,6 +4,6 @@ title: flappy bird 클론 코딩
 date: 2022-03-07
 category: Unity
 ---
-# post-sample
+# 유니티
   
 > '카테고리 변경이 되는지 시험중.. 변경이 안되고 추가가 되는군...'
