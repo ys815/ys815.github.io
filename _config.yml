@@ -21,7 +21,8 @@
 title: Bonos 
 email: yusun815@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  https://github.com/ys815
+  yusun815@gmail.com
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "https://ys815.github.io"
 github_username: ys815
