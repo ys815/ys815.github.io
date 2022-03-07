@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <words of colour> 웹사이트 제작기[8. html]
+title: <words of colour> 웹사이트 제작기2 (~8. html)
 date: 2022-03-07 
 category: HTML+CSS+Javascript
 ---
