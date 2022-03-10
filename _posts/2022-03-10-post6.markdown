@@ -4,8 +4,10 @@ title: <words of colour> 웹사이트 제작기(Button/Toggle)
 date: 2022-03-10 
 category: HTML+CSS+Javascript
 ---
-# Javascript: day/night button
+## Javascript
   
+  
+# day/night button 
 > 자바스크립트를 활용하여 상황에 따라 바꿀 수있는 day/night button을 만들었다.
   <script src="https://gist.github.com/ys815/55a25943c84739a20ee10be3bbba43ee.js"></script>
 
