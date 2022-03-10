@@ -1,18 +1,21 @@
 ---
 layout: post
-title: <words of colour> 웹사이트 제작기1 (1. html)
+title: <words of colour> 웹사이트 제작기1 (1.html)
 date: 2022-03-06 
 category: HTML+CSS+Javascript
 ---
-# 1. html
+# 1~7.html
   
 > '컬러의 말'이란 책 내용을 기반으로 생활코딩 강의를 따라 컬러별 내용이 담긴 웹사이트를 만들어 보는 중이다.
+> (1~7.html)
 
 
-<index.html>
-
-This is code
-```
-  <script src="https://gist.github.com/ys815/27614f54b3533921e5b396998eaf77b9.js"></script>
-```
-
+  
+  
+<script src="https://gist.github.com/ys815/27614f54b3533921e5b396998eaf77b9.js"></script>
+<script src="https://gist.github.com/ys815/114a712cf96fedeae95b31aeacbe21dc.js"></script>
+<script src="https://gist.github.com/ys815/c07564653c03f46b849d5564130213d4.js"></script>
+<script src="https://gist.github.com/ys815/e2268a002da510f72904b17894e0a102.js"></script>
+<script src="https://gist.github.com/ys815/5459193c119bff1ff3161421bcd10135.js"></script>
+<script src="https://gist.github.com/ys815/c0abe51fe223ce03e820565b8628d9ff.js"></script>
+<script src="https://gist.github.com/ys815/e934b07023556c7ee47567c5fa187d3a.js"></script>
