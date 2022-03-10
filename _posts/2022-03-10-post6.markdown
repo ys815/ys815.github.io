@@ -1,0 +1,24 @@
+---
+layout: post
+title: <words of colour> 웹사이트 제작기(Button/Toggle)
+date: 2022-03-10 
+category: HTML+CSS+Javascript
+---
+# Javascript: day/night button
+  
+> 자바스크립트를 활용하여 상황에 따라 바꿀 수있는 day/night button을 만들었다.
+  
+  This is code
+  
+```
+  <script src="https://gist.github.com/ys815/55a25943c84739a20ee10be3bbba43ee.js"></script>
+```
+
+  
+> 좀 더 나아가서 버튼 하나로 위 두가지 기능을 담은 '토글'이라는 것을 만들었다.
+> # 'toggle ; 토글 · 토글이란 하나의 설정 값으로부터 다른 값으로 전환하는 것'
+  
+  
+```
+  <script src="https://gist.github.com/ys815/85ae533dc54e862bb92b69661dd1e080.js"></script>
+```
