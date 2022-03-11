@@ -6,12 +6,16 @@ permalink: /about/
 
 ## ys815
 > do it!
+> (github)[https://github.com/ys815]
+> (email)[yusun815@gmail.com]
+
 
 ### Features
 - Major in Business Administration
 - Like drawing
 - First Blog
 - HaMa
+
 
 ### _config.yml
 > Code block will look like this.
